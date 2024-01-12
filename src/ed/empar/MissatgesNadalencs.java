@@ -122,6 +122,7 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila1PC6() {
+	System.out.println("Soc Vicent. Feliç any nou per a tots);
 
 	}
 
