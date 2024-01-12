@@ -50,7 +50,7 @@ Empar ha afegit el mètode que desitja: "Feliç Any Nou.  Pau i Salut per a tots
 #### AlumneFila1 PC5:
 
 
-#### AlumneFila1 PC6:
+#### AlumneFila1 PC6: Vicent: Ha clonat el repositori y l'ha editat per a que el java faja el meu salut, despres ha fet el commit y ha muntat els canvis a github
 
 
 #### AlumneFila2 PC1:
